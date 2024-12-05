@@ -1,7 +1,10 @@
 # Kidney-Disease-Classification
 
 
-## Workflows
+## 📊 Overview
+A Kidney Tumor classification system that leverages deep learning models to classify the CT scan image into Healthy or Tumor
+
+##  🏗️  Workflows
 
 1. Update config.yaml
 2. Update secrets.yaml [Optional]
